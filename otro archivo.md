@@ -1,2 +1,2 @@
 # clase-virtual
-hola
+hola que tal
