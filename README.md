@@ -1,4 +1,4 @@
 # clase-virtual
-agregando contenido
-clase virtual
-primer commit
++ agregando contenido
++ clase virtual
++ primer commit
